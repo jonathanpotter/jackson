@@ -1,5 +1,7 @@
 # Jackson Python Code
 
+J was here sucka!
+
 Some short programs that Jackson and Jonathan wrote while learning Python.
 
 ## Usage
